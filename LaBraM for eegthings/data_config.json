@@ -1,0 +1,6 @@
+{
+    "data_path": "/root/autodl-fs/Preprocessed_data_200Hz",
+    "img_directory_training": "/root/autodl-fs/images_set/training_images",
+    "img_directory_test": "/root/autodl-fs/images_set/test_images",
+    "features_path":"/root/autodl-tmp/CLIP"
+}

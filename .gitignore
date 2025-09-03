@@ -1,0 +1,6 @@
+# .gitignore 文件内容示例
+.idea/
+__pycache__/
+venv/
+*.pyc
+.env
